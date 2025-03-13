@@ -1,4 +1,4 @@
-# Microsoft PowerToys
+# Microsoft PowerToys - Fork
 
 ![Hero image for Microsoft PowerToys](doc/images/overview/PT_hero_image.png)
 
@@ -212,3 +212,6 @@ The application logs basic diagnostic data (telemetry). For more information on 
 [privacy-link]: http://go.microsoft.com/fwlink/?LinkId=521839
 [loc-bug]: https://github.com/microsoft/PowerToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
 [usingPowerToys-docs-link]: https://aka.ms/powertoys-docs
+
+> [!NOTE]  
+> This is a fork of the official [Microsoft PowerToys repository](https://aka.ms/PowerToysOverview_Awake), intended for delving into the management of a professional and large-scale software project. It will not be provided with additional features or modifications executed by the owner.
